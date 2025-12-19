@@ -284,4 +284,4 @@ When you open a project file with Visual Studio Code, it should look like the fo
   <img src="https://user-images.githubusercontent.com/52567674/61787493-8e381900-ae18-11e9-996d-fb0b400774a6.jpg">
 </p>
 
-<div align="center">ATAPUB</div>
+Author: **Atalay PABUŞÇU**
