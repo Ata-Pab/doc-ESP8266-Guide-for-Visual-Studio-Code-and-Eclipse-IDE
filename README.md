@@ -1,4 +1,5 @@
-### **_ESP8266 USAGE WITH ECLIPSE IDE_** ###
+<h1 align="left">ESP8266 VSCode & Eclipse Setup</h1>
+
 
 - Open **Eclipse C/C++ IDE**
 
@@ -284,4 +285,4 @@ When you open a project file with Visual Studio Code, it should look like the fo
   <img src="https://user-images.githubusercontent.com/52567674/61787493-8e381900-ae18-11e9-996d-fb0b400774a6.jpg">
 </p>
 
-Author: **Atalay PABUŞÇU**
+<p align="center"><strong>Author:</strong> Atalay PABUŞÇU</p>
